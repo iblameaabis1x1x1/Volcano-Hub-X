@@ -1,5 +1,5 @@
 local a = {
-	main_color = Color3.fromRGB(41, 74, 122),
+	main_color = Color3.fromRGB(255, 0, 0),
 	min_size = Vector2.new(400, 300),
 	toggle_key = Enum.KeyCode.RightShift,
 	can_resize = true
@@ -109,7 +109,7 @@ e.ClipsDescendants = true;
 e.Position = UDim2.new(0, 20, 0, 20)
 e.Selectable = true;
 e.Size = UDim2.new(0, 200, 0, 200)
-e.Image = "rbxassetid://2851926732"
+e.Image = "rbxassetid://95942463079177"
 e.ImageColor3 = Color3.new(0.0823529, 0.0862745, 0.0901961)
 e.ScaleType = Enum.ScaleType.Slice;
 e.SliceCenter = Rect.new(12, 12, 12, 12)
